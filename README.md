@@ -1,6 +1,8 @@
-# 🌐 Polyglot-Lab — Traductor Web
+# 🌐 PolyglotLAB - Traductor Web
 
 Proyecto portfolio: traductor web estilo Google Translate, con frontend en **HTML/CSS/JS** y backend en **Python/Flask/deep-translator**.
+
+![PolyglotLAB preview](https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/35769e245748535.69b41180b593d.png)
 
 ---
 
@@ -38,7 +40,7 @@ python app.py
 
 El servidor quedará en `http://127.0.0.1:5000`.
 
-**para entorno de producción (Linux/Mac)**
+**Para entorno de producción (Linux/Mac)**
 
 ```bash
 gunicorn -w 4 -b 127.0.0.1:5000 app:app
@@ -74,6 +76,14 @@ Abrí `index.html` en tu navegador directamente, o usá una extensión como **Li
 
 ---
 
+## Screenshots
+
+| | |
+|:---:|:---:|
+| ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/7a249f245748535.69b41180b9454.png) | ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/167746245748535.69b41180b880b.png) |
+
+---
+
 ## Funcionalidades
 
 - Detección automática de idioma
@@ -97,10 +107,12 @@ Abrí `index.html` en tu navegador directamente, o usá una extensión como **Li
 
 ## Tecnologías utilizadas
 
-| Capa      | Tecnología                        |
-|-----------|-----------------------------------|
-| Frontend  | HTML5, CSS3, JavaScript           |
-| Backend   | Python 3, Flask, flask-cors       |
-| Traducción| deep-translator (GoogleTranslator)|
+| Capa       | Tecnología                         |
+|------------|------------------------------------|
+| Frontend   | HTML5, CSS3, JavaScript            |
+| Backend    | Python 3, Flask, flask-cors        |
+| Traducción | deep-translator (GoogleTranslator) |
 
-## Desarrollado con ❤️ por Martín Sogoloff
+---
+
+Desarrollado con ❤️ por Martín Sogoloff
