@@ -54,7 +54,7 @@ Abrí `index.html` en tu navegador directamente, o usá una extensión como **Li
 
 ## Endpoint de la API
 
-### `POST /translate`
+### `POST / translate`
 
 **Body JSON:**
 ```json
